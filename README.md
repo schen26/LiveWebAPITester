@@ -10,7 +10,7 @@ This framework is used to increase the efficiency of the testers, testing live w
 
 3. Go into the POM file to test the website
 
-## Framework highlights
+## Framework Highlights
 
 This framework is able to:
 
