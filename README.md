@@ -16,4 +16,4 @@ This framework is able to:
 
 - Detect the colour change of according to presence of error 
 
-- Ensures that the titles and subtitles are correct
+- Ensures that text inputs work correctly
