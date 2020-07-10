@@ -10,10 +10,12 @@ This framework is used to increase the efficiency of the testers, testing live w
 
 3. Go into the POM file to test the website
 
-## Framework highlights
+## Framework Highlights
 
-This framework is able to:
+This framework has tests that:
 
 - Detect the colour change of according to presence of error 
 
-- Ensures that the titles and subtitles are correct
+- Ensure that text inputs work correctly
+
+- Ensure the titles match what is shown
