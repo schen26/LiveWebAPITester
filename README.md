@@ -12,8 +12,10 @@ This framework is used to increase the efficiency of the testers, testing live w
 
 ## Framework Highlights
 
-This framework is able to:
+This framework has tests that:
 
 - Detect the colour change of according to presence of error 
 
-- Ensures that text inputs work correctly
+- Ensure that text inputs work correctly
+
+- Ensure the titles match what is shown
